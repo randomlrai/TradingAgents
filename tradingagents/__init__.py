@@ -6,6 +6,10 @@ recommendations.
 
 Based on the original TauricResearch/TradingAgents framework with additional
 enhancements for production deployment.
+
+Personal fork notes:
+- Forked for learning purposes and personal experimentation
+- See CHANGELOG.md for local modifications
 """
 
 __version__ = "0.1.0"
